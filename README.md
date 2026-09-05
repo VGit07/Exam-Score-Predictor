@@ -81,3 +81,14 @@ Exam-Score-Predictor/
 * **Data Processing:** Pandas, NumPy
 * **Frontend / UI:** Streamlit
 * **Model Serialization:** Joblib
+
+## 👨‍💻 Author
+
+### Made by: Vignesh Nadar
+
+---
+
+## 🌐 Live Demo
+**Link:** https://score-predictor-ml.streamlit.app/
+
+---
